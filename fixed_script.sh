@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This is a different conflicting comment
+# This is a conflicting comment
 echo "This script hs typos. Pleez fix them."
 # This is an unrelated comment
 
