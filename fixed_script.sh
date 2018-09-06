@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# You will change this line later
+# This is a conflicting comment
 echo "This script hs typos. Pleez fix them."
 # You will also change this line later
 
