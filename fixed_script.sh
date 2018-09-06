@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This is a conflicting comment
-echo "This script hs typos. Pleez fix them."
+echo "This script has typos. Please fix them."
 # This is an unrelated comment
 
 echo "Positive integers from 005 to 100:"
