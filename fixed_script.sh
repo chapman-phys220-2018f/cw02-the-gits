@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# You will change this line later
+# This is a different conflicting comment
 echo "This script hs typos. Pleez fix them."
-# You will also change this line later
+# This is an unrelated comment
 
 echo "Positive integers from 005 to 100:"
 for i in $(seq -w 5 100); do
